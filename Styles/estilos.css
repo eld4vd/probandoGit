@@ -6,3 +6,10 @@ body{
     font-size: 20px;
     color:blueviolet ;
 }
+
+#parrafo{
+    font-size: 15px;
+    color: rgb(6, 87, 6);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: start;
+}
