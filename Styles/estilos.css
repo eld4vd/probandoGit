@@ -40,6 +40,12 @@ header {
   font-size: 2em;
   width: 70%;
 }
+
+#parrafo {
+  font-size: 15px;
+  color: rgb(6, 87, 6);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: start;
 #parrafo {
   font-size: 15px;
   color: rgb(6, 87, 6);
