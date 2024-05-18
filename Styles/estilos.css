@@ -22,7 +22,7 @@ header {
 #titulo {
   display: flex;
   flex-direction: row;
-  color: blueviolet;
+  color: rgb(132, 0, 255);
   align-items: center;
   justify-content: center;
 }
@@ -30,7 +30,7 @@ header {
   font-size: 2.5em;
   font-family: arial;
   width: 30%;
-  background-color: rgba(74, 109, 69, 0.158);
+  background-color: rgb(34, 255, 0);
   border-radius: 10px;
   border: 0.5px solid #96b677;
 }
