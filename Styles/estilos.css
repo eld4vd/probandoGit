@@ -6,6 +6,9 @@
 body {
   text-align: center;
 }
+
+
+/*header*/
 header {
   background-color: #c6fa95;
   padding: 10px;
@@ -38,6 +41,14 @@ header {
   font-size: 2em;
   width: 70%;
 }
+
+
+
+
+
+
+
+/*parrafo*/
 #parrafo {
   font-size: 15px;
   color: rgb(6, 87, 6);
@@ -45,6 +56,11 @@ header {
   text-align: start;
 }
 
+
+
+
+
+/*footer*/
 footer {
   background-color: rgba(187, 255, 0, 0.644);
   color: rgb(253, 0, 0);
